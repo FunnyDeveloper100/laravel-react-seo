@@ -1,0 +1,29 @@
+.top-left h1 {
+    font-size: 35px;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.single-post-content h2{
+    font-size: 18px;
+    margin: 15px 0;
+}
+
+.single-post-content h3 {
+    font-size: 16px;
+    margin: 15px 0;
+}
+
+blockquote {
+    font-size: 12px;
+    font-style: italic;
+    margin: 1.25em 0;
+    padding: 15px;
+    line-height: 12px;
+    position: relative;
+    color: #777;
+    border-left: 5px solid #c43afe;
+    background: #f9f9ff;
+}
